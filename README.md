@@ -1,6 +1,7 @@
 # Personal Portfolio Website
 
-![screenshot]()
+![screenshot](assets/protfolio.png)
+![screenshot](assets/protfolio2.png)
 
 This is my personal portfolio website. Built on HTML, CSS and JavaScript. This was built with responsiveness in mind.
 
@@ -12,7 +13,7 @@ This is my personal portfolio website. Built on HTML, CSS and JavaScript. This w
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](http://127.0.0.1:5501/)
 
 ### To get a local copy up and running:
 
