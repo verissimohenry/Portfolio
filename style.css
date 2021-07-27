@@ -71,7 +71,6 @@ body {
   #navbar {
     margin: 0;
   }
-
   /* Show Hamburger Icon */
   #navbar label {
     display: inline-block;
@@ -93,8 +92,7 @@ body {
   #navbar-items {
     display: none;
   }
-
-  #navbar input:checked~#navbar-items {
+  #navbar input:checked ~ #navbar-items {
     display: block;
     background: var(--background);
   }
@@ -210,28 +208,28 @@ main {
   background-image: linear-gradient(rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 1)),
-    url("");
+    url("assets/library.png");
 }
 
 .project-6 {
   background-image: linear-gradient(rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 1)),
-    url("");
+    url("assets/todo.png");
 }
 
 .project-7 {
   background-image: linear-gradient(rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 1)),
-    url(".");
+    url("");
 }
 
 .project-8 {
   background-image: linear-gradient(rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 1)),
-    url("");
+    url("assets/rest.png");
 }
 
 .project-9 {
