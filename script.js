@@ -121,7 +121,7 @@ let project_data = {
     1: {
         title: "Twitter-redesign",
         tags: ["Ruby on Rails", "Bootstrap", "Active Record", "Rspec gem"],
-        image: "assets/Twitter-redesign.png",
+        image: "Twitter-redesign.png",
         description: "A social media website build with Ruby on Rails, where you can create and like tweets, follow people and see their tweets on your timeline.",
         live_link: "https://glacial-gorge-49167.herokuapp.com/",
         source_link: "https://github.com/verissimohenry/Twitter-redesign",
@@ -129,7 +129,7 @@ let project_data = {
     2: {
         title: "Stay-in-Touch",
         tags: ["Ruby on Rails", "PostgreSQL", "Bootstrap"],
-        image: "assets/stayintouch.png",
+        image: "stayintouch.png",
         description: "Stay in touch project we are about to create a simple website where users can share posts and create relationship between then. the project is still in the development process.",
         live_link: "https://peaceful-stream-34920.herokuapp.com/",
         source_link: "https://github.com/verissimohenry/Stay-in-Touch",
@@ -137,7 +137,7 @@ let project_data = {
     3: {
         title: "Newsweek",
         tags: ["Font awesome icons", "Bootstrap", "HTML/CSS"],
-        image: "assets/Newsweek.png",
+        image: "Newsweek.png",
         description: "Recreation of the Newsweek website.",
         live_link: "https://verissimohenry.github.io/Newsweek/",
         source_link: "https://github.com/verissimohenry/Newsweek",
@@ -145,7 +145,7 @@ let project_data = {
     4: {
         title: "VSMO Photography Conference",
         tags: ["HTML/CSS3", "Bootstrap"],
-        image: "assets/VSMO Photography Conference Page.png",
+        image: "VSMO Photography Conference Page.png",
         description: "The project is to build a Conference website and I decided to build one that applies to photography. It has three pages..",
         live_link: "",
         source_link: "https://github.com/verissimohenry/capstone-project",
@@ -153,7 +153,7 @@ let project_data = {
     5: {
         title: "Library-Appv1",
         tags: ["JavaScript", "Bootstrap", "HTML"],
-        image: "assets/library.png",
+        image: "library.png",
         description: "In this project, we built a basic web-based library application using JavaScript. One can add books to the library, delete the books and mark the book as read. We use local storage to store the data from the user.",
         live_link: "",
         source_link: "https://github.com/verissimohenry/Library-Appv1",
@@ -161,8 +161,8 @@ let project_data = {
     6: {
         title: "to-do-list",
         tags: ["JavaScript", "HTML/CSS", "Webpack", "Bootstrap"],
-        image: "assets/todo.png",
-        description: "A simple vanilla JavaScript country flag guessing game that uses Firebase to store high scores.",
+        image: "todo.png",
+        description: "A simple Todo app where a user can: Create Projects ,Create Todos for each project, Edit Todos Remove Projects or Todos.",
         live_link: "",
         source_link: "https://github.com/verissimohenry/to-do-list",
     },
@@ -177,7 +177,7 @@ let project_data = {
     8: {
         title: "RestaurantPage",
         tags: ["JavaScript", "Webpack", "Bootstrap"],
-        image: "assets/rest.png",
+        image: "rest.png",
         description: "In this project, I built a basic restaurant page using JavaScript and webpack. All pages are build using DOM manipulations.",
         live_link: "",
         source_link: "https://github.com/verissimohenry/RestaurantPage",
