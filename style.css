@@ -74,6 +74,16 @@ body {
   text-decoration: none;
 }
 
+.icons i {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.soft-skills-icon i {
+  font-size: 3rem;
+  color: #db4747;
+}
+
 .link-with-icon a i {
   margin-left: 1rem;
 }
@@ -187,11 +197,6 @@ main {
   display: flex;
   justify-content: space-around;
   margin: 0 3rem;
-}
-
-.icons i {
-  font-size: 3rem;
-  color: #fff;
 }
 
 .icons i:hover {
@@ -396,11 +401,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.soft-skills-icon i {
-  font-size: 3rem;
-  color: #db4747;
 }
 
 .soft-skills-icon {
