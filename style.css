@@ -37,7 +37,7 @@ body {
   background: var(--background);
   height: 5%;
   z-index: 1;
-  
+
   /* Optional */
 
   position: sticky;
@@ -117,6 +117,7 @@ main {
 .number {
   font-weight: 200;
   font-size: 5rem;
+
   /* line-height: 7.5rem; */
   opacity: 0.2;
   margin: 0 2rem;
@@ -157,7 +158,7 @@ main {
 
 .icons i {
   font-size: 3rem;
-  color: #ffffff;
+  color: #fff;
 }
 
 .icons i:hover {
@@ -174,7 +175,6 @@ main {
   background-color: #17363f;
   display: flex;
   flex-direction: column;
-  height: 19rem;
   padding: 1rem;
   justify-content: space-between;
   align-items: start;
@@ -182,83 +182,92 @@ main {
 }
 
 .project-1 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/Twitter-redesign.png");
 }
 
 .project-2 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/stayintouch.png");
 }
 
 .project-3 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/Newsweek.png");
 }
 
 .project-4 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/VSMO Photography Conference Page.png");
 }
 
 .project-5 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/library.png");
 }
 
 .project-6 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/todo.png");
 }
 
 .project-7 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("");
 }
 
 .project-8 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("assets/rest.png");
 }
 
 .project-9 {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 1)
-    ),
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 1)
+  ),
     url("");
 }
 
@@ -266,7 +275,7 @@ main {
   font-size: 2rem;
   font-weight: 400;
   line-height: 100%;
-  color: #ffffff;
+  color: #fff;
   padding: 0 1rem;
 }
 
@@ -413,7 +422,7 @@ main {
   font-weight: bold;
   font-size: 1.6rem;
   line-height: 2.7rem;
-  color: #ffffff;
+  color: #fff;
 }
 
 .skill-list {
@@ -421,7 +430,7 @@ main {
   font-size: 1.4rem;
   line-height: 2rem;
   letter-spacing: -0.0525em;
-  color: #aaaaaa;
+  color: #aaa;
   padding-left: 1.5rem;
 }
 
@@ -437,7 +446,7 @@ form {
 
 .name-group,
 .email-group {
-  background: #101010;
+  background: #101;
   height: 7rem;
   margin-bottom: 2rem;
   padding-left: 2rem;
@@ -466,7 +475,7 @@ textarea {
   font-weight: normal;
   font-size: 1.5rem;
   line-height: 1.8rem;
-  color: #ffffff;
+  color: #fff;
   background: #101010;
   border-radius: 4px;
   margin-bottom: 2rem;
