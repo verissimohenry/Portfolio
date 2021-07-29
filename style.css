@@ -30,6 +30,7 @@ body {
 /* Start navbar */
 
 /* ON BIG SCREEN */
+
 /* Wrapper */
 
 #navbar {
@@ -124,7 +125,7 @@ main {
 }
 
 .title {
-  font-family: Playfair Display;
+  font-family: playfair Display;
   font-style: normal;
   font-weight: normal;
   font-size: 5rem;
@@ -192,7 +193,8 @@ main {
 }
 
 .project-2 {
-  background-image: 
+  background-image:
+  
     linear-gradient(
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
