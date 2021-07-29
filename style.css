@@ -182,62 +182,62 @@ main {
 }
 
 .project-1 {
-  background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/Twitter-redesign.png");
 }
 
 .project-2 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/stayintouch.png");
 }
 
 .project-3 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/Newsweek.png");
 }
 
 .project-4 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/VSMO Photography Conference Page.png");
 }
 
 .project-5 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/library.png");
 }
 
 .project-6 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/todo.png");
 }
 
@@ -253,21 +253,21 @@ main {
 
 .project-8 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("assets/rest.png");
 }
 
 .project-9 {
   background-image: 
-  linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 1)
-  ),
+    linear-gradient(
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 1)
+    ),
     url("");
 }
 
