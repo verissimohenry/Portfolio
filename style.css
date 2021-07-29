@@ -46,6 +46,21 @@ body {
   margin: 0;
 }
 
+.skills-icon i {
+  font-size: 3rem;
+  color: #f19d2a;
+}
+
+.frameworks-icon i {
+  font-size: 3rem;
+  color: #376aed;
+}
+
+.language-icon i {
+  font-size: 3rem;
+  color: #22b07d;
+}
+
 .link-with-icon {
   display: flex;
   justify-content: center;
@@ -350,11 +365,6 @@ main {
   margin-bottom: 3rem;
 }
 
-.language-icon i {
-  font-size: 3rem;
-  color: #22b07d;
-}
-
 .language-icon {
   width: 4.7rem;
   height: 4.7rem;
@@ -366,11 +376,6 @@ main {
   justify-content: center;
 }
 
-.frameworks-icon i {
-  font-size: 3rem;
-  color: #376aed;
-}
-
 .frameworks-icon {
   width: 4.7rem;
   height: 4.7rem;
@@ -380,11 +385,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.skills-icon i {
-  font-size: 3rem;
-  color: #f19d2a;
 }
 
 .skills-icon {
