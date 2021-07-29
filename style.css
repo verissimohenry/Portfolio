@@ -248,7 +248,8 @@ main {
 }
 
 .project-7 {
-  background-image: 
+  background-image:
+    
   linear-gradient(
     rgba(0, 0, 0, 1),
     rgba(0, 0, 0, 0.5),
@@ -258,7 +259,8 @@ main {
 }
 
 .project-8 {
-  background-image: 
+  background-image:
+
     linear-gradient(
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
@@ -268,7 +270,8 @@ main {
 }
 
 .project-9 {
-  background-image: 
+  background-image:
+
     linear-gradient(
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.5),
@@ -418,7 +421,7 @@ main {
   font-weight: bold;
   font-size: 1.8rem;
   line-height: 2.7rem;
-  color: #ffffff;
+  color: #fff;
 }
 
 .square-title {
@@ -452,7 +455,7 @@ form {
 
 .name-group,
 .email-group {
-  background: #101;
+  background: #101010;
   height: 7rem;
   margin-bottom: 2rem;
   padding-left: 2rem;
