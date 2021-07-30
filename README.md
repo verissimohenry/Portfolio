@@ -13,7 +13,7 @@ This is my personal portfolio website. Built on HTML, CSS and JavaScript. This w
 
 ## Live Demo
 
-[Live Demo Link](https://deploy-preview-1--verissimocapital.netlify.app/)
+[Live Demo Link](https://verissimocapital.netlify.app/)
 
 ### To get a local copy up and running:
 
