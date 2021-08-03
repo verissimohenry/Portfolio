@@ -167,12 +167,12 @@ let project_data = {
         source_link: "https://github.com/verissimohenry/to-do-list",
     },
     7: {
-        title: "",
-        tags: [""],
-        image: "-app.png",
-        description: ".",
+        title: "WeatherApp",
+        tags: ["JavaScript", "Webpack", "API", "Html", "Bootstrap"],
+        image: "assets/image1.png",
+        description: "In this project, I built a basic weather application using JavaScript, Webpack and API. You can write the name of the city and click on search, to get all the weather information about the city.",
         live_link: "",
-        source_link: "",
+        source_link: "https://github.com/verissimohenry/WeatherApp",
     },
     8: {
         title: "RestaurantPage",
