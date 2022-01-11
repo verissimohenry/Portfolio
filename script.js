@@ -148,7 +148,7 @@ let project_data = {
         image: "Shooter-game.png",
         description: "This is a never-ending game. User faces different alien ships at random times. User uses laser (Space) to shoot and explode enemy ships. Every different enemy ship shot adds a differnet point to the user's score. When the user's ship is shot by an enemy laser, or an enemy ship touches the user's ship, the game ends. The user can restart the game. Also, users' high scores are stored in an API, and users can display the highest ten scores in the scoreboard scene.",
         live_link: "https://hungry-hopper-15f02b.netlify.app/https://hungry-hopper-15f02b.netlify.app/",
-        source_link: "https://github.com/verissimohenry/Shooter-game/tree/Shooter-game",
+        source_link: "https://thirsty-pare-7e6ef7.netlify.app/",
     },
     5: {
         title: "New-York-Time",
